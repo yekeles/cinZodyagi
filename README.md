@@ -1,1 +1,1 @@
-# Çin Zodyağına Göre Burç Hesaplama
+# Çin Zodyağına Göre Burç Hesaplayan Program
